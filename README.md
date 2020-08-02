@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 👨🏻‍💻 I’m currently studying Computer Engineering 
+- 🌱 I’m currently learning Swift and everything about Apple  Dev.🖥⌚️📱📺❤️
 
 <!--
 **juansevargasc/juansevargasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
