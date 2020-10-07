@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 - 👨🏻‍💻 I’m currently studying Computer Engineering 
 - 🌱 I’m currently learning Swift and everything about Apple  Dev.🖥⌚️📱📺❤️
 
