@@ -1,7 +1,5 @@
 ### 
-- 👨🏻‍💻 I’m currently studying Computer Engineering 
-- Also Data Science 🧾
-- and learning Swift 🍎 
+- 👨🏻‍💻 I’m currently studying Computer Engineering, I'm into Data Science🧾, and Swift 🍎 
 
 <!--
 **juansevargasc/juansevargasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
