@@ -1,5 +1,5 @@
 ### 
-- 👨🏻‍💻 Computer Engineering student, currently on Data Science🧾, and Swift 🍎 
+- 👨🏻‍💻 Systmes Engineering and C.S. student, currently on Data Science🧾, and Swift 🍎 
 
 <!--
 **juansevargasc/juansevargasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
