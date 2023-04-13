@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> 🍎 👨🏻‍💻 I'm Juanse</h1>
-<h3 align="center">A Data Analyst and Engineer who loves coffee.</h3>
+<h3 align="center">Data Analyst and Engineer</h3>
 
 -  Data Science and Software Engineering 🌿
+-  I like everthing related to coffee and its culture ☕️
+-  I enjoy data about airplanes, airports and places ✈️
+-  I'm interested in topics -other than tech and data- such as Economy and Finance too 🏦
+-  I think Marketing and Design are interisting and necessary areas 🎨
+-  I enjoy Languages and World Culture 🌎
 
 <br>
 <h3 align="left">Connect with me</h3>
