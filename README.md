@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Juanse</h1>
+<h1 align="center"> 🍎 👨🏻‍💻 I'm Juanse</h1>
 <h3 align="center">A Data Analyst and Engineer who loves coffee.</h3>
 
-- 👨🏻‍💻 Data Science🧾 and Software Engineering  🍎 
+-  Data Science and Software Engineering 🌿
 
 <br>
 <h3 align="left">Connect with me:</h3>
