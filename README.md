@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 <h1 align="center"> 🍎 👨🏻‍💻 I'm Juanse</h1>
 <h3 align="center">Data Analyst and Engineer</h3>
 
--  Data Science and Software Engineering 🌿
+-  Data and Software Engineering 🧑‍💻🧩
+-  I'm specializing in People Anlytics 🙅‍♂️👩‍🎨👨‍🔬👳‍♂️
 -  I like everthing related to coffee and its culture ☕️
--  I enjoy data about airplanes, airports and places ✈️
--  I'm interested in topics -other than tech and data- such as Economy and Finance too 🏦
--  I think Marketing and Design are interisting and necessary areas 🎨
+-  I enjoy traveling and dealing with aeronautical data ✈️
+-  I'm interested in topics such as Economy and Finance too 🏦
+-  I think Marketing and Design are interisting and important areas in any business 🎨
 -  I enjoy Languages and World Culture 🌎
 
 <br>
