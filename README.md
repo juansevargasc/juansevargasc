@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> 🍎 👨🏻‍💻 I'm Juanse</h1>
-<h3 align="center">Data Analyst and Engineer</h3>
+<h3 align="center">Data Engineer @Twilio </h3>
 
 -  Data and Software Engineering 🧑‍💻🧩
 -  I'm specializing in People Anlytics 🙅‍♂️👩‍🎨👨‍🔬👳‍♂️
