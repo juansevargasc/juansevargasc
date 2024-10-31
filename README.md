@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> 🍎 👨🏻‍💻 I'm Juanse</h1>
+<h1 align="center"> 🍎 👨🏻‍💻 Juanse</h1>
 <h3 align="center">Data Engineer @Twilio </h3>
 
 -  Data and Software Engineering 🧑‍💻🧩
