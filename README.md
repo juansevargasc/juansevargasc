@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -  Data and Software Engineering 🧑‍💻🧩
 -  I'm specializing in People Anlytics 🙅‍♂️👩‍🎨👨‍🔬👳‍♂️
 -  I like everthing related to coffee and its culture ☕️
--  I enjoy traveling and dealing with aeronautical data ✈️
+-  I enjoy traveling. And I also like dealing with aeronautical data ✈️
 -  I'm interested in topics such as Economy and Finance too 🏦
 -  I think Marketing and Design are interisting and important areas in any business 🎨
 -  I enjoy Languages and World Culture 🌎
